@@ -250,19 +250,9 @@
   {
     "objectID": "cleansing.html",
     "href": "cleansing.html",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "text": ".circular-img { border-radius: 50%; width: 150px; height: 150px; object-fit: cover; }\n.circular-img\nMarkDown Basics\n\n\n\n Back to top",
     "crumbs": [
       "Data Cleansing"
     ]
