@@ -1,89 +1,52 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jordan McDonald's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+ROBERT (JORDAN) MCDONALD  
+Mcd23009@byui.edu | (720) 260-3308  
+707 S 5th W, Apt. 3701, Rexburg, ID 83440  
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+================================================================================  
+EDUCATION  
+--------------------------------------------------------------------------------  
+Brigham Young University - Idaho  
+Bachelor of Financial Economics, Major | Minor: Data Science  
+Expected Graduation: May 2026  
+GPA: 4.0  
 
+================================================================================  
+EXPERIENCE  
+--------------------------------------------------------------------------------  
+Teaching Assistant – Microeconomics & Financial Ethics  
+Brigham Young University - Idaho | January – April 2025  
+• Graded assignments, exams, and quizzes for ~100 students, ensuring timely feedback.  
+• Monitored class participation during sections and online forums.  
+• Assisted students during office hours with course-related questions and concerns.  
 
-## Currently
+================================================================================  
+LEADERSHIP EXPERIENCE & ACTIVITIES  
+--------------------------------------------------------------------------------  
+Corporate Finance Society – Chief Administrative Officer, Member  
+Winter 2024 – Present  
+• Recorded meeting minutes and ensured scheduling alignment of all events.  
+• Managed society communications, including emails and newsletters.  
+• Attended executive meetings and supported leadership with planning and logistics.  
 
-Standing on the shoulders of giants
+Investment Society – Member  
+Winter 2024 – Present  
+• Helped manage a simulated investment portfolio and tracked performance metrics.  
+• Analyzed market trends and collaborated on investment strategies.  
+• Participated in workshops to strengthen skills in valuation, portfolio management, and risk.  
 
-### Specialized in
+================================================================================  
+HONORS  
+--------------------------------------------------------------------------------  
+• Merit Scholarship – Brigham Young University - Idaho (Fall 2024 – Winter 2025)  
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+================================================================================  
+ADDITIONAL INFORMATION  
+--------------------------------------------------------------------------------  
+Computer Skills: MS Word, Excel (Intermediate), Python, SQL, R, Power BI (Basic)  
+Certifications: Bloomberg Market Concepts, Finance Fundamentals  
+Languages: Working Knowledge of Spanish  
+Work Eligibility: Authorized to work in the U.S. with no restrictions  
